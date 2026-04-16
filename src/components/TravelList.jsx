@@ -12,22 +12,7 @@ const TravelList = () => {
     setTravelPlans(filteredPlans);
   }
 
-  
-
-  // function handleDeletePlan(planId) {
-  //   console.log("plan deleted");
-  //   const filterData = dataState.filter((currentElement) => {
-  //     if (currentElement.id === planId) {
-  //       return false;
-  //     } else {
-  //       return true;
-  //     }
-  //   });
-  //   setDataState(filterData);
-  // }
-
-
-
+ 
 
   return (
     <div>
